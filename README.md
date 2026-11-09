@@ -1,3 +1,5 @@
+
+# Mobilna aplikacija koja bi služila za upravljanje procesom izrade personalizirane odječe po mjeri.
 # Quasar App (hug)
 
 ## Install the dependencies
